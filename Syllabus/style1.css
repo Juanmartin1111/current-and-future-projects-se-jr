@@ -1,0 +1,20 @@
+{
+    margin: 0;
+    padding: 0;
+
+}
+
+body
+{
+    font-family: sans-serif;
+}
+
+header
+{
+    background-image:linear-gradient(rgba(193, 226, 8, 0.411),rgba(129, 224, 185, 0.829)),url(Course-Information.jpg);
+    background-size: cover;
+    background-position: center;
+    font-size: 20px;
+}
+
+

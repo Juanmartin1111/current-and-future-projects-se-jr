@@ -1,0 +1,33 @@
+{
+    margin: 0;
+    padding: 0;
+
+}
+
+body
+{
+    font-family: sans-serif;
+}
+
+header
+{
+    background-image:linear-gradient(rgba(33, 131, 93, 0.411),rgba(172, 108, 36, 0.411)),url(Instructor-information.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+table {
+    width: 1000px;
+    border-spacing: 80;
+}
+
+table, th, td {
+    
+    border: 3px solid white;
+    border-collapse: collapse;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 10px 30px;
+    font-size: 15px;
+}

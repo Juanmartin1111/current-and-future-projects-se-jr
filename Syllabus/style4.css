@@ -1,0 +1,36 @@
+{
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    font-family: sans-serif;
+}
+
+header
+{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.411),rgba(0, 0, 0, 0.411)),url(schedule.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+table {
+    width: 700px;
+    
+}
+
+th {
+    text-align: left;
+}
+
+table, th, td {
+    
+    border: 1px solid white;
+    border-collapse: collapse;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 5px 20px;
+    font-size: 15px;
+}
